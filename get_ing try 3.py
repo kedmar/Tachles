@@ -8,6 +8,8 @@ def get_ing():
     from pprint import pprint
 
     pprint (x)
+    print (scrape_me.instructions())
+
 
 get_ing()
     
